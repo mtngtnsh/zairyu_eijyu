@@ -17,7 +17,3 @@
 1. [永住権申請に必要な「理由書」の書き方を解説！構成や文例もあり](https://dnus.jp/articles/154)
 2. [理由書には何を書けばいいの？](https://samurai-law.com/eizyu/2019/12/15/%E6%B0%B8%E4%BD%8F%E3%83%93%E3%82%B6%E3%82%92%E5%8F%96%E3%82%8A%E3%81%9F%E3%81%84%E3%81%AE%E3%81%A7%E3%81%99%E3%81%8C%E7%90%86%E7%94%B1%E6%9B%B8%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%82%84%E4%BE%8B/)
 3. [永住許可に関するガイドライン（永住許可の要件）](http://mogi.main.jp/%E7%90%86%E7%94%B1%E6%9B%B8%E7%AD%89%E3%81%AE%E4%BD%9C%E6%88%90/%E6%B0%B8%E4%BD%8F%E7%90%86%E7%94%B1%E6%9B%B8/)
-
-## 各種証明書URL
-1. [卒業後の諸証明書の請求方法Saitama University](http://park.saitama-u.ac.jp/~zengaku/sotugyou/)
-2. [成績証明書 再発行申請 | 日本語能力試験　JLPT](https://www.jlpt.jp/saihakkou.cgi)
